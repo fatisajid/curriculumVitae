@@ -103,7 +103,8 @@ h3 {
     display: flex;
     flex-direction: column;
     margin: 1em 2.5em;
-    line-height: 150%;  
+    line-height: 150%; 
+    width: 250px; 
 }
 
 
