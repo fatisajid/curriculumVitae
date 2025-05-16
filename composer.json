@@ -1,0 +1,15 @@
+{
+    "name": "fatim/curriculum-vitae",
+    "autoload": {
+        "psr-4": {
+            "Fatim\\CurriculumVitae\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Fatima Ez-zahraa",
+            "email": "fatimaezahraa.salah@gmail.com"
+        }
+    ],
+    "require": {}
+}
