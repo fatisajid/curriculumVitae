@@ -88,9 +88,10 @@ h3 {
 .photo {
     display: block;
     width: 50%;
+    object-position: 50% 27%;
     max-width: 600px;
     aspect-ratio: 1 / 1; /* Rend le bloc carré */
-     /* object-fit: cover; */
+     object-fit: cover;
        /* Remplit bien le cercle sans déformation */
     margin: -10em auto 0 auto;
     clip-path: circle(50% at 50% 50%);
